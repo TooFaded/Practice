@@ -1,0 +1,35 @@
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+
+#root {
+    background-color: bisque;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    text-align: center;
+    border: solid 10px black;
+    list-style: inside;
+    padding: 20px;
+    max-width: 200vh;
+    
+}
+
+html{
+    background-color: rgb(37, 137, 183);
+    
+}
+
+.unordered-list {
+    color: rgb(49, 49, 49);
+    
+}
+
+.list-item {
+    padding: 12px;
+
+}
